@@ -1,2 +1,3 @@
 # PowerBI_ATM_Analytics
-Power BI dashboards for analyzing ATM transactions, reversal rates, errors, cash requirement for ATMs and payroll interactions
+
+This repository contains Power BI dashboards designed to provide detailed insights into ATM transactions, reversal rates, errors, payroll interactions, and cash replenishment requirements for ATM operation team. These dashboards help stakeholders monitor ATM performance, optimize operations, and improve efficiency for payroll and cash management for ATM processes.
