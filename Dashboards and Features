@@ -1,0 +1,62 @@
+1. Reversal Rate Analysis
+Purpose: Identify ATMs with a reversal rate of 1% or higher.
+Key Metrics:
+Reversal percentage per ATM.
+Approved transactions without reversal.
+Reversal transactions categorized by type.
+Use Case: Target underperforming ATMs to reduce reversal rates and enhance customer experience.
+
+-----
+
+2. Error Analysis
+Purpose: Provide an overview of transaction errors to identify problem areas.
+Key Metrics:
+Error counts and percentages by terminal.
+Categorized errors such as insufficient funds, issuer limits, and system errors.
+Use Case: Analyze common errors and implement corrective measures.
+3. Payroll Dashboard (Integrated into ATM Dashboards)
+Purpose: Provide payroll-specific insights into ATM usage and cash flow.
+Key Metrics:
+Payroll Portfolio Overview:
+Number of payroll companies actively using ATMs.
+Total amounts disbursed vs. withdrawn.
+ATM Utilization for Payroll Companies:
+Identify payroll companies that need additional ATMs.
+ATM usage trends and efficiency.
+Detailed Payroll Transactions:
+Drill down to view individual payroll company transactions, disbursed amounts, and withdrawals.
+Use Case:
+Ensure payroll ATMs meet demand.
+Monitor cash flows for payroll companies and optimize ATM distribution.
+4. Cash Requirement and Replenishment Forecasting
+Purpose: Predict cash requirements and replenishment needs using advanced analytics.
+Methodology:
+Linear Regression: Forecast daily cash requirements based on historical data.
+Predict the number of replenishment trips for ATMs to ensure availability.
+Visuals:
+Forecasted cash requirements over time.
+Replenishment trip trends by month.
+Use Case: Avoid cash shortages and plan efficient replenishment schedules.
+5. Overview Dashboard
+Purpose: Provide a high-level summary of ATM performance.
+Key Metrics:
+Total transaction count, withdrawal amounts, and reversal rates.
+Available cash in ATMs and withdrawal trends.
+Use Case: Get a snapshot of ATM network performance and cash flow.
+6. Data Relationships View
+Purpose: Show relationships between key data tables.
+Features:
+Connects ATM transaction data, payroll details, calendar data, and error logs.
+Use Case: Provide an overview of data structure and dependencies for future expansion.
+Screenshots
+
+Payroll Dashboard Screenshots
+Payroll Portfolio Overview
+A KPI summary displaying:
+Total payroll companies served.
+Total cash disbursed vs. withdrawn.
+ATM utilization rates.
+ATM Utilization for Payroll Companies
+A bar chart visualizing ATM usage trends across payroll companies.
+Detailed Payroll Transactions
+A table showcasing transaction counts, disbursed amounts, and withdrawal trends for each payroll company.
