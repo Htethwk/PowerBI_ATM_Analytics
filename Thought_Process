@@ -11,7 +11,7 @@ Key considerations included:
 
 2. Data Collection and Preparation
 Steps Taken:
-- Data Sources Identified: Transaction logs, ATM details, replenishment records, and payroll data were collected from various systems.
+- Data Sources Identified: Transaction logs, ATM details, replenishment records,Moblie Car ATM records,Agent information table,Payroll ATM service request table and payroll data were collected from various systems.
 - Data Cleaning:
   - Removed duplicate records and irrelevant columns.
   - Standardize date and time formats to ensure consistency across all tables in Power Query, as most systems produce dates in the (dd/mm/yyyy) format, which Power Query does not recognize.
