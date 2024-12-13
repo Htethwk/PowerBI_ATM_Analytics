@@ -53,12 +53,4 @@ Total transaction count, withdrawal amounts, and reversal rates.
 Available cash in ATMs and withdrawal trends.
 Use Case: Get a snapshot of ATM network performance and cash flow.
 
----
-
-6. Data Relationships View
-Purpose: Show relationships between key data tables.
-Features:
-Connects ATM transaction data, payroll details, calendar data, and error logs.
-Use Case: Provide an overview of data structure and dependencies for future expansion.
-Screenshots
 
